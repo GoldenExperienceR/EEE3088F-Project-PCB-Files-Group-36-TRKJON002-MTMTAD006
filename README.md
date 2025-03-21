@@ -1,0 +1,2 @@
+# EEE3088F-Project-PCB-Files-Group-xx-STUDENTNUMBER1-STUDENTNUMBER2
+EEE3088F Project Power PCB KiCad Design
