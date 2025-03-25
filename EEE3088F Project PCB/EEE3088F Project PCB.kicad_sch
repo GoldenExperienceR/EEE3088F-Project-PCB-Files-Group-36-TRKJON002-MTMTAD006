@@ -1190,28 +1190,88 @@
 			(embedded_fonts no)
 		)
 	)
-	(wire
-		(pts
-			(xy 143.51 49.53) (xy 142.24 49.53)
+	(label "USART2_RX"
+		(at 161.29 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
 		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06d0dfbb-b602-40e2-988a-1e2fb4745c89")
+		(uuid "226b3110-b958-40de-9808-60c4cea667db")
 	)
-	(wire
-		(pts
-			(xy 127 57.15) (xy 129.54 57.15)
+	(label "MOTOR3_CTRL1"
+		(at 148.59 40.64 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
 		)
-		(stroke
-			(width 0)
-			(type default)
+		(uuid "2659ef71-7052-44a4-b469-ab0e4fde6050")
+	)
+	(label "I2C1_SDA"
+		(at 161.29 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
 		)
-		(uuid "e6ac5f36-dd44-48aa-8430-97d8c949d347")
+		(uuid "29001073-7c8a-4282-bc07-1978e03e4c3e")
+	)
+	(label "Motor2_B_OUT"
+		(at 161.29 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2a450935-6218-400e-8ea0-7fe9c2898a8d")
+	)
+	(label "EXT_LOAD1_OUT"
+		(at 161.29 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2c1bee17-3565-4a4f-aadc-62325cb2941b")
+	)
+	(label "5V Out"
+		(at 148.59 45.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "328a962d-4f72-4fcf-946d-760dcfec132b")
 	)
 	(label "GND"
-		(at 143.51 49.53 0)
+		(at 161.29 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3a090e49-7400-4f6b-bf35-c6475ff8ed1e")
+	)
+	(label "3V3 Out"
+		(at 148.59 48.26 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "46a681f8-5e07-4681-bf3f-9af761cb55a8")
+	)
+	(label "GND"
+		(at 161.29 45.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1220,8 +1280,68 @@
 		)
 		(uuid "48c153ad-4f51-4785-b360-bbf83761f904")
 	)
+	(label "MOTOR4_CTRL1"
+		(at 148.59 60.96 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "57d0a0d6-f2cc-46fb-be8d-e546bacffaf1")
+	)
+	(label "Motor4_B_OUT"
+		(at 161.29 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "638fb59e-446c-4f57-8a98-b7ffaac67c08")
+	)
+	(label "USART2_TX"
+		(at 148.59 55.88 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "676c80b8-2a57-4def-a364-2987003b2b9b")
+	)
+	(label "MOTOR1_CTRL2"
+		(at 148.59 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6a04f302-70b5-4497-8705-e95e2116d87f")
+	)
+	(label "CTRL_EXT_LOAD1"
+		(at 161.29 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6c6ee620-40f1-4062-a2f1-f0296e554df4")
+	)
+	(label "MOTOR4_CTRL2"
+		(at 148.59 58.42 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6d3c9b16-7f85-4936-902e-a5c212d02666")
+	)
 	(label "GND"
-		(at 85.09 58.42 180)
+		(at 95.25 33.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1230,8 +1350,58 @@
 		)
 		(uuid "7af393dd-f656-456d-b09b-5f80da232c6b")
 	)
+	(label "EXT_LOAD2_OUT"
+		(at 161.29 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "86dae8ed-7108-4771-868e-a4a98e933f0f")
+	)
+	(label "Motor2_A_OUT"
+		(at 148.59 68.58 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "87c7e379-a592-45c4-ba11-75b2f72ee2f8")
+	)
+	(label "MOTOR1_B_OUT"
+		(at 161.29 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8cd0bac2-ee12-4e70-9146-af82e9b6b8e8")
+	)
+	(label "Motor4_A_OUT"
+		(at 161.29 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "922ffca3-3503-455d-8c41-687b3a5eb4fb")
+	)
+	(label "MOTOR3_B_OUT"
+		(at 161.29 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "97dfecc9-5478-4908-837d-dd5cc20399b3")
+	)
 	(label "Vcc"
-		(at 85.09 55.88 180)
+		(at 95.25 30.48 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1240,8 +1410,108 @@
 		)
 		(uuid "a1d9bb4a-9eed-4418-8b11-70536ff753d7")
 	)
+	(label "MOTOR3_A_OUT"
+		(at 161.29 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a29e00cc-6f06-41fe-84d4-cd9a2a6a22b6")
+	)
+	(label "MOTOR3_CTRL2"
+		(at 148.59 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a5784600-b20b-40bb-8b18-25a375d1ae3a")
+	)
+	(label "FAST_CHARGE_CTRL"
+		(at 161.29 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ab142a8f-b15a-4180-8c68-f3bd856ec9d9")
+	)
+	(label "MOTOR1_A_OUT"
+		(at 148.59 30.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b225e82d-0103-415d-b197-f3af6756783b")
+	)
+	(label "HV"
+		(at 148.59 43.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b566efbe-098b-411d-8b3a-870efee40079")
+	)
+	(label "I2C1_SCL"
+		(at 148.59 50.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c4d10997-2d2d-4d75-a0e5-74a7422e53b9")
+	)
+	(label "MOTOR1_CTRL1"
+		(at 148.59 35.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d4d6f85e-1667-4716-a087-d6c7194550e4")
+	)
+	(label "MOTOR2_CTRL2"
+		(at 148.59 63.5 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e99ffcc4-7e2d-4523-a9dc-9f3503c5a652")
+	)
+	(label "CTRL_EXT_LOAD2"
+		(at 161.29 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f178689d-da29-442c-9ba5-6ca90de4d515")
+	)
+	(label "MOTOR2_CTRL1"
+		(at 148.59 66.04 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f3d56da6-317d-4b44-97cb-aa05e5738825")
+	)
 	(label "Vcc"
-		(at 127 57.15 180)
+		(at 148.59 53.34 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1252,7 +1522,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x16_Odd_Even")
-		(at 137.16 54.61 180)
+		(at 156.21 50.8 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1260,7 +1530,7 @@
 		(dnp no)
 		(uuid "5c95072a-8243-4553-8137-c81715d2056e")
 		(property "Reference" "am"
-			(at 135.89 27.94 0)
+			(at 154.94 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1268,7 +1538,7 @@
 			)
 		)
 		(property "Value" "2x16 (2.54mm pin pitch) pin header"
-			(at 135.89 30.48 0)
+			(at 154.94 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1276,7 +1546,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x16_P2.54mm_Vertical"
-			(at 137.414 24.892 0)
+			(at 156.464 21.082 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1284,7 +1554,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 137.16 54.61 0)
+			(at 156.21 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1293,7 +1563,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x16, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 137.16 54.61 0)
+			(at 156.21 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1408,7 +1678,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
-		(at 90.17 55.88 0)
+		(at 100.33 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1417,7 +1687,7 @@
 		(fields_autoplaced yes)
 		(uuid "f0fb3f99-e910-4883-bc90-dcdad0d7b12c")
 		(property "Reference" "J1"
-			(at 91.44 55.8799 0)
+			(at 101.6 30.4799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1426,7 +1696,7 @@
 			)
 		)
 		(property "Value" "JST PH 2.00mm connector"
-			(at 91.44 58.4199 0)
+			(at 101.6 33.0199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1435,7 +1705,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
-			(at 90.17 55.88 0)
+			(at 100.33 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1444,7 +1714,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 90.17 55.88 0)
+			(at 100.33 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1453,7 +1723,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 90.17 55.88 0)
+			(at 100.33 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
