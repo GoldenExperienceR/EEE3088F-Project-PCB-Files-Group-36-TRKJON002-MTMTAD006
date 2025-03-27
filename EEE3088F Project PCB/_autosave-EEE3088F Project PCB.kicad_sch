@@ -3373,7 +3373,7 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 96.52 12.7) (xy 96.52 78.74) (xy 219.71 78.74) (xy 219.71 12.7)
+				(xy 228.6 78.74) (xy 228.6 127) (xy 284.48 127) (xy 284.48 81.28) (xy 281.94 78.74)
 			)
 			(stroke
 				(width 0)
@@ -3382,22 +3382,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 1ab5b463-3d38-440c-9c47-2fae55149881)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 219.71 12.7) (xy 219.71 78.74) (xy 284.48 78.74) (xy 284.48 12.7)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 7d2e2768-12cb-423d-9fe3-f853ab9187f1)
+			(uuid 70e62ded-2881-4d12-b418-af6642cc1376)
 		)
 	)
 	(rule_area
@@ -3412,13 +3397,13 @@
 			(fill
 				(type none)
 			)
-			(uuid 7f0830aa-f011-4b26-bc63-a511daf6ece3)
+			(uuid 94c61869-7d8f-4320-a61c-32d907350a23)
 		)
 	)
 	(rule_area
 		(polyline
 			(pts
-				(xy 228.6 78.74) (xy 228.6 127) (xy 284.48 127) (xy 284.48 81.28) (xy 281.94 78.74)
+				(xy 96.52 12.7) (xy 96.52 78.74) (xy 219.71 78.74) (xy 219.71 12.7)
 			)
 			(stroke
 				(width 0)
@@ -3427,7 +3412,22 @@
 			(fill
 				(type none)
 			)
-			(uuid 87ebfdcc-1955-4bbd-a45c-ca1ea34df607)
+			(uuid a18d3a64-363f-4526-86a9-d2abbf9d3e49)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 219.71 12.7) (xy 219.71 78.74) (xy 284.48 78.74) (xy 284.48 12.7)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid edfb14a5-e71c-4bce-9813-50b0b7765508)
 		)
 	)
 	(symbol
@@ -4708,7 +4708,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias"
+		(property "Footprint" "exported_footprints:SOP65P640X120-16N"
 			(at 194.31 64.77 0)
 			(effects
 				(font
@@ -4957,7 +4957,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "exported_footprints:CAPC1608X90N"
 			(at 140.0048 25.4 0)
 			(effects
 				(font
@@ -5027,7 +5027,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias"
+		(property "Footprint" "exported_footprints:SOP65P640X120-16N"
 			(at 133.35 64.77 0)
 			(effects
 				(font
@@ -5220,7 +5220,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "exported_footprints:CAPC1005X55N"
 			(at 200.9648 25.4 0)
 			(effects
 				(font
