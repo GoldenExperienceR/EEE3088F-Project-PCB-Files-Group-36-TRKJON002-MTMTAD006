@@ -6287,6 +6287,21 @@
 	(rule_area
 		(polyline
 			(pts
+				(xy 228.6 78.74) (xy 228.6 127) (xy 284.48 127) (xy 284.48 81.28) (xy 281.94 78.74)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 1611a4ae-bee3-4556-964c-200fbabf22d4)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
 				(xy 91.44 12.7) (xy 91.44 78.74) (xy 219.71 78.74) (xy 219.71 12.7)
 			)
 			(stroke
@@ -6296,7 +6311,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 36263a1a-2dbf-457d-86e0-0d8ac526a6d7)
+			(uuid 1b0a84a8-2510-49ee-9312-bb6b9c6528b6)
 		)
 	)
 	(rule_area
@@ -6311,22 +6326,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 40468ba3-0db7-40d2-b35a-a27a6214d2f4)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 176.53 165.1) (xy 176.53 127) (xy 285.75 127) (xy 285.75 165.1) (xy 284.48 166.37) (xy 177.8 166.37)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 4400a603-c0ac-4cee-8e5d-f76dd52f9868)
+			(uuid 1e629da3-869d-4e55-b55e-8c1a236f1b84)
 		)
 	)
 	(rule_area
@@ -6341,13 +6341,13 @@
 			(fill
 				(type none)
 			)
-			(uuid 752a2536-2b60-4a33-b9f8-0da18866ff14)
+			(uuid 3a9db683-2304-4614-ad5d-05fdd1ca3385)
 		)
 	)
 	(rule_area
 		(polyline
 			(pts
-				(xy 228.6 78.74) (xy 228.6 127) (xy 284.48 127) (xy 284.48 81.28) (xy 281.94 78.74)
+				(xy 176.53 165.1) (xy 176.53 127) (xy 285.75 127) (xy 285.75 165.1) (xy 284.48 166.37) (xy 177.8 166.37)
 			)
 			(stroke
 				(width 0)
@@ -6356,7 +6356,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 96e70004-1210-4352-8868-edcb38441573)
+			(uuid e50564d1-c641-425e-ae13-acc5919bc72d)
 		)
 	)
 	(symbol
@@ -9864,7 +9864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6fbe323-a1d9-42c9-9e6a-06fbfaf8738d")
-		(property "Reference" "0.21"
+		(property "Reference" "0.16"
 			(at 241.3 106.6799 0)
 			(effects
 				(font
@@ -9924,7 +9924,7 @@
 		(instances
 			(project ""
 				(path "/e48caec1-c218-420e-929b-e5099c9fb7b6"
-					(reference "0.21")
+					(reference "0.16")
 					(unit 1)
 				)
 			)
