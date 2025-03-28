@@ -1,4 +1,4 @@
-24742578266536509
+24747807616433205
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99527,6 +99527,27 @@ Capacitor
 2
 exported_footprints
 CAPC2012X140N
+
+
+0
+2
+2
+exported_footprints
+CAPC3216X180N
+
+
+0
+2
+2
+exported_footprints
+HRO_TYPE-C-31-M-12
+
+
+0
+16
+16
+exported_footprints
+RESC3115X65N
 
 
 0
