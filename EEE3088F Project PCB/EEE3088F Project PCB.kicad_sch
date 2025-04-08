@@ -10674,21 +10674,6 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 228.6 114.3) (xy 167.64 114.3) (xy 167.64 165.735) (xy 285.75 165.1) (xy 285.75 129.54) (xy 228.6 129.54)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 323dd9c1-682d-4f85-aec5-43e67ebfb5cf)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
 				(xy 222.25 12.7) (xy 222.25 78.74) (xy 284.48 78.74) (xy 284.48 12.7)
 			)
 			(stroke
@@ -10698,37 +10683,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 4906e0f6-c969-4643-8d04-d9f4d001c1b2)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 167.64 78.74) (xy 167.64 114.3) (xy 228.6 114.3) (xy 228.6 78.74)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 5c2a391d-3e60-46a9-9aa8-c7c2a8c70ce5)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 93.98 12.7) (xy 93.98 78.74) (xy 222.25 78.74) (xy 222.25 12.7)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 5d0ebea8-68cb-48b4-bef3-b81878acd896)
+			(uuid 38a7dc72-8fe5-447f-bfe7-70f13b575713)
 		)
 	)
 	(rule_area
@@ -10743,7 +10698,52 @@
 			(fill
 				(type none)
 			)
-			(uuid ac6962eb-2826-46a5-9039-8cb977b30e73)
+			(uuid 41784529-e479-49d4-b612-48ecc87e6121)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 93.98 12.7) (xy 93.98 78.74) (xy 222.25 78.74) (xy 222.25 12.7)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 839a603b-a316-4f3c-97e5-9a6d34cfe941)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 167.64 78.74) (xy 167.64 114.3) (xy 228.6 114.3) (xy 228.6 78.74)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 876e0dca-3562-4ecb-a8e2-6e4189d4fd8b)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 228.6 114.3) (xy 167.64 114.3) (xy 167.64 165.735) (xy 285.75 165.1) (xy 285.75 129.54) (xy 228.6 129.54)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid d812064c-a6aa-4a74-944f-4b120bb4e0dd)
 		)
 	)
 	(symbol
@@ -11110,7 +11110,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "exported_footprints:CAPC3216X180N"
 			(at 178.7652 140.97 0)
 			(effects
 				(font
@@ -12505,7 +12505,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "exported_footprints:CAPC3216X180N"
 			(at 28.2448 130.81 0)
 			(effects
 				(font
@@ -12575,7 +12575,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "exported_footprints:CAPC3216X180N"
 			(at 216.8652 144.78 0)
 			(effects
 				(font
@@ -13519,7 +13519,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "exported_footprints:CAPC3216X180N"
 			(at 28.2448 97.79 0)
 			(effects
 				(font
@@ -14143,7 +14143,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 206.502 151.13 90)
 			(effects
 				(font
@@ -15973,7 +15973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "exported_footprints:CAPC3216X180N"
 			(at 272.7452 151.13 0)
 			(effects
 				(font
@@ -16090,10 +16090,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a137ca54-68ff-493a-89bc-e8dfb26f19cb")
 		(property "Reference" "R8"
-			(at 210.82 138.4299 0)
+			(at 210.566 132.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16102,7 +16101,7 @@
 			)
 		)
 		(property "Value" "2200"
-			(at 210.82 140.9699 0)
+			(at 209.296 134.874 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16110,7 +16109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 206.502 139.7 90)
 			(effects
 				(font
@@ -17893,7 +17892,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 240.03 119.6848 0)
 			(effects
 				(font
@@ -18499,7 +18498,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "exported_footprints:CAPC3216X180N"
 			(at 244.8052 153.67 0)
 			(effects
 				(font
