@@ -4093,7 +4093,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4211"
+		(property "LCSC" "C22978"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -18817,7 +18817,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C4211"
+		(property "LCSC" "C22978"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -18975,18 +18975,6 @@
 				(xyz 0 0 0)
 			)
 		)
-	)
-	(gr_rect
-		(start 59.75 62.775)
-		(end 60.25 62.775)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(fill no)
-		(layer "F.Cu")
-		(net 25)
-		(uuid "a2b1c87c-cad6-4488-ae20-29bd6a5588fd")
 	)
 	(gr_arc
 		(start 231.465981 121.442036)
