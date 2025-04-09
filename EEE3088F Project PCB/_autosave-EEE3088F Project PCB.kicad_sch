@@ -7844,6 +7844,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 115.57) (xy 149.86 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "307ac0c2-a202-483e-a745-3037356721c6")
+	)
+	(wire
+		(pts
 			(xy 203.2 139.7) (xy 203.2 144.78)
 		)
 		(stroke
@@ -9674,7 +9684,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 124.46) (xy 149.86 127)
+			(xy 149.86 125.73) (xy 149.86 127)
 		)
 		(stroke
 			(width 0)
@@ -10523,7 +10533,7 @@
 		(uuid "b969adbc-67de-4e6e-9b3a-f74115a1306b")
 	)
 	(label "5V Out"
-		(at 149.86 116.84 0)
+		(at 149.86 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12081,7 +12091,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 149.86 120.65 0)
+		(at 149.86 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12090,7 +12100,7 @@
 		(fields_autoplaced yes)
 		(uuid "334dd0b6-0e52-484f-9fd2-18ecc12c06e1")
 		(property "Reference" "R13"
-			(at 152.4 119.3799 0)
+			(at 152.4 120.6499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12099,7 +12109,7 @@
 			)
 		)
 		(property "Value" "100"
-			(at 152.4 121.9199 0)
+			(at 152.4 123.1899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12108,7 +12118,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 148.082 120.65 90)
+			(at 148.082 121.92 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12117,7 +12127,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 149.86 120.65 0)
+			(at 149.86 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12126,7 +12136,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 149.86 120.65 0)
+			(at 149.86 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
