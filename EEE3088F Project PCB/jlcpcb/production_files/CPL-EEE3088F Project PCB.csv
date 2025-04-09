@@ -10,7 +10,7 @@ C17,1uF,CAPC3216X180N,218.44,-93.98,90.0,top
 C18,0.1uF,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,220.98,-98.4925,90.0,top
 C19,0.33u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,162.02,-92.05,90.0,top
 C2,2.2uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,204.8775,-121.92,180.0,top
-C20,0.1u,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,155.69,-83.78,-90.0,top
+C20,0.1u,C_0402_1005Metric_Pad0.74x0.62mm_HandSolder,156.0,-83.5,-90.0,top
 C21,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,162.0,-86.36,90.0,top
 C3,10uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,198.07,-123.11,0.0,top
 C4,2.2uF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,159.5,-119.0,-90.0,top
@@ -22,7 +22,7 @@ D1,MBR230LS,D_SOD-123F,208.32,-88.8875,90.0,top
 J1,JST PH 2.00mm connector,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,224.35,-109.73,90.0,top
 J2,~,HRO_TYPE-C-31-M-12,157.205,-107.65,-90.0,top
 L1,22uH,L_Coilcraft_1515SQ-47N,203.5,-82.42,90.0,top
-Q1,NPN,SOT-23_Handsoldering,179.5,-110.0,0.0,top
+Q2,NPN,SOT-23_Handsoldering,179.0,-109.0,180.0,top
 R1,3.3k,R_0603_1608Metric,190.5,-110.045,90.0,top
 R10,10,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,210.18,-110.79,-90.0,top
 R11,160m,R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,203.2,-106.68,90.0,top
@@ -32,7 +32,7 @@ R14,160m,R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,185.93,-129.5,0.0,top
 R2,3.3k,R_0603_1608Metric,195.12,-110.155,90.0,top
 R3,1k,RESC3115X65N,170.0,-102.5,180.0,top
 R4,10k,RESC3115X65N,178.0,-94.54,90.0,top
-R5,470,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,179.5,-105.0,180.0,top
+R5,470,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,178.0,-104.0,180.0,top
 R6,160m,R_2512_6332Metric_Pad1.40x3.35mm_HandSolder,170.5,-83.0,0.0,top
 R7,300,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,204.09,-98.82,-90.0,top
 R8,2200,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,189.15,-103.05,90.0,top
